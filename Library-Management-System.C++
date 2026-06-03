@@ -16,7 +16,7 @@ public:
         : isbn(a), title(b), author(c), edition(d), publication(e), genre(f), isIssued(false) {}
 
     string getIsbn() { 
-        return isbn; 
+        return isbn;
         
     }
     string getTitle() { 
