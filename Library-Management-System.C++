@@ -405,7 +405,7 @@ int main() {
                 cout << "Exiting Library Management System. Goodbye!\n";
                 return 0;
 
-            default:
+           default:
                 cout << "Invalid choice. Please try again.\n";
         }
     }
