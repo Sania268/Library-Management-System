@@ -395,7 +395,6 @@ int main() {
             case 12:
                 library.displayAllMembers();
                 break;
-
             case 13:
                 cout << "Enter Member ID to display issued books: ";
                 cin >> memberID;
