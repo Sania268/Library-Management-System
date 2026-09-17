@@ -23,7 +23,7 @@ public:
         
     }
     string getAuthor() { 
-        return author; 
+        return author;
         
     }
     string getEdition() { 
